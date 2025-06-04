@@ -30,6 +30,25 @@
   Example: Enter a list: 1 2 3 4 5 1 2 3 4 5 6
            After removing duplicate:  [1, 2, 3, 4, 5, 6]
 
+# Prime number
+  Program to find a given number is prime or not.
+
+# First unique
+   Program to find the first unique letter in the given word.
+   Example: Enter a word: prompt
+            The unique first letter - r
+
+# Fibanooci
+   Program to print the given number of Fibanooci series.
+   Example: Enter a number: 7
+            [0, 1, 1, 2, 3, 5, 8]
+
+#  Binary search
+   Program to search an given number in the list by binary search using function.
+   Example: Enter list: 1 5 7 9 10
+            Enter key: 9
+            Key found at 4
+
 
 
 
