@@ -1,5 +1,7 @@
 l=[int(x) for x in input("Enter a list: ").split()]
-for i in range(0,len(l)-2):
-     if(l[i]==l[i+1]):
-            l.pop(i)
-print("After removing duplicate: ",l)
+newl=l
+for i in range(0,len(l)):
+    for j in range(i+1,len(l)-1):
+        if(l[i]==l[j]):
+            newl.pop(j)
+print("After removing duplicate: ",newl)
