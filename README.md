@@ -48,10 +48,53 @@
    Example: Enter list: 1 5 7 9 10
             Enter key: 9
             Key found at 4
+# Anagram
+   Program to check if the two words are anagram
+   Eg: Silent,Listen are anagram
 
+# Intersection
+   Program to find the same elements in the two list given.
+   Example: Enter first list: 1 5 8 3
+            Enter second list: 2 4 5 9
+            [5]
 
+# Max of subarray
+  Program to find the subarray from the given array which add up to the target.
+  Example:Enter the list: 1 2 3 4 5
+          Enter the target: 9
+          [2, 3, 4]
+          [4, 5]
 
+# Merge list
+  Program to merge and sort the two given list.
+  Example: Enter a list 1: 12 45 85
+           Enter a list 2: 14 65 88
+           ['12', '14', '45', '65', '85', '88']
 
+# No of 1 in bits
+  Program to find the 1's in the bits given.
+  Example: Enter a number: 7
+           The no of 1 in bit representation 3
 
+# Pali
+  Program to find the given word is palindrome or not.
+  Example: Enter a String: madam
+           Given String is palindrome
 
+# Palindrome
+  Program to find given number is palindrome or not.
+  Example:  Enter a number to palindrome or not: 54
+            Not a Palindrome
+
+# Armstrong number
+  Program to check given three digit number is palindrome or not.
+  Example: Enter a three_digit number:153
+           Given no is armstrong no
+
+# Sorting without built-in function 
+  Program to sort the list without built-in function.
   
+#  Peak number
+  Program to find the peak number which their adjacent number is lesser than the number.
+  Example: Enter a list: 2 5 4 8 3 1
+           Peak no: 5 8
